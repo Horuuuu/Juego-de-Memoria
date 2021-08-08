@@ -1,5 +1,5 @@
 # Juego-de-Memoria
-Hecho con Javascript , Html y Css
+
 
 ![](img/Screenshot_5.jpg)
 
@@ -14,4 +14,4 @@ Para desordenar las imagenes de las cartas,use el metodo Math con la clase Rando
 
 
 
-![](img/gif.gif.gif)
+![](img/gif.gif.gif)![](img/htmlcssjavascript.png)
